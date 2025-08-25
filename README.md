@@ -6,3 +6,6 @@
 以下のコマンドで実行可能
 ```zsh
 python3 guess_number_game.py
+```
+
+![badge](https://img.shields.io/badge/review-Question-green)
